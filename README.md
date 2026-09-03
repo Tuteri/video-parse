@@ -8,7 +8,7 @@
 GET http://gateway.diadi.cn/api/parse
 ```
 
-浏览器访问测试 https://gateway.diadi.cn/api/parse?app_secret=3mCuQeOvVgeBIcpUgRSLiqWcmDkxDdBxx&url=https%3A%2F%2Fv.douyin.com%2Fp1G164ZIlXU%2F
+浏览器访问测试 https://gateway.diadi.cn/api/parse?app_secret=1xoHycbECYHIqoMcrtvYvXOuVHCjEczJv&url=https%3A%2F%2Fv.douyin.com%2Fp1G164ZIlXU%2F
 
 ------
 
